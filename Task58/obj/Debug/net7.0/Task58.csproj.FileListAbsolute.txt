@@ -1,0 +1,15 @@
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.csproj.AssemblyReference.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.AssemblyInfoInputs.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.AssemblyInfo.cs
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.csproj.CoreCompileInputs.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\bin\Debug\net7.0\Task58.exe
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\bin\Debug\net7.0\Task58.deps.json
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\bin\Debug\net7.0\Task58.runtimeconfig.json
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\bin\Debug\net7.0\Task58.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\bin\Debug\net7.0\Task58.pdb
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\refint\Task58.dll
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.pdb
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\Task58.genruntimeconfig.cache
+C:\Users\орпеку\Desktop\GeekBrains\znakomstvo_s_yazikami_programirovaniya\Practical_seminar8\Task58\obj\Debug\net7.0\ref\Task58.dll
